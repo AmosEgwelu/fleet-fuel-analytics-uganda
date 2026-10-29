@@ -1,0 +1,6 @@
+Trip_ID,Vehicle_ID,Driver_ID,Route,Distance_km,Fuel_Expected_L,Fuel_Consumed_L,Variance_%,Anomaly_Flag,Day_Night,Date
+TRP-001,UGX-007,DRV-010,Gulu-Mombasa,1458,510.3,689.1,35.0,1,Night,2024-01-01
+TRP-002,UGX-008,DRV-008,Kampala-Kigali,490,171.5,169.5,-1.2,0,Day,2024-01-02
+TRP-003,UGX-002,DRV-012,Kampala-Hoima,181,63.3,63.3,0.0,0,Day,2024-01-03
+TRP-004,UGX-015,DRV-003,Kampala-Mombasa,1155,404.2,545.6,35.0,1,Night,2024-01-04
+TRP-005,UGX-011,DRV-007,Kampala-Gulu,340,119.0,145.0,21.8,1,Night,2024-01-05
