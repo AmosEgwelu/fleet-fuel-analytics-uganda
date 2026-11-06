@@ -2,10 +2,10 @@
 
 Detecting fuel anomalies and theft in 300+ fleet trips across Kampala-Gulu-Mombasa-Kigali routes using Python.
 
-*Author:* Egwelu Amos | IVMS & Fleet Officer (9 Years @ Mota-Engil) | Aspiring Data Analyst
+*Author:* Egwelu Amos | IVMS & Fleet Analyst (@ Mota-Engil) | Aspiring Data Analytics Engineer.
 
 ### 📊 Business Problem
-Vehicles face 15-20% fuel variance monthly. Manual checks in Wialon/VSS miss sophisticated siphoning. Goal: Build automated detection to save monthly.
+Vehicles face 15-20% fuel variance monthly. Manual checks in Wialon/VSS miss sophisticated siphoning. Goal: Build automated detection to save on fuel operational costs monthly.
 
 ### 📁 Dataset
 - 300 trips (Synthetic but based on real IVMS patterns)
